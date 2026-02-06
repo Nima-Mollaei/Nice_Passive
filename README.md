@@ -218,17 +218,6 @@ Output contains:
 
 ---
 
-## 🧩 Future Improvements
-
-* httpx integration (live check)
-* Status code filtering
-* Content-Type filtering
-* Auto categorization
-* nuclei integration
-* JSON output mode
-
----
-
 ## ⚠️ Legal & Ethical Notice
 
 This tool is intended **only** for:
@@ -239,22 +228,4 @@ This tool is intended **only** for:
 
 Any illegal use is strictly the responsibility of the user.
 
----
 
-## 🧠 Tool Name
-
-**NicePassive**
-
-Meaning:
-
-> Passive Recon — Clean Output — Smart Automation
-
----
-
-## ❤️ Dev Philosophy
-
-> Reduce noise, increase hunter value.
-
----
-
-Built for real hunters, real workflows, and real automation pipelines.
